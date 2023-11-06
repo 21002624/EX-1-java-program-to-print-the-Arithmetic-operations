@@ -1,4 +1,4 @@
-# java-program-to-print-the-Arithmetic-operations
+# EX : 1 java-program-to-print-the-Arithmetic-operations
 
 ## Program
 ```
