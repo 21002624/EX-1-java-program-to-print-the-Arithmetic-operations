@@ -32,3 +32,7 @@ public class main {
 ```
 
 ## Output
+`
+![Screenshot (65)](https://github.com/21002624/java-program-to-print-the-Arithmetic-operations/assets/113762183/9099c207-f36b-4a44-a799-f3f8f197be2a)
+
+`
